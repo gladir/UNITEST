@@ -8,6 +8,8 @@ Unit UNITEST;
 
 INTERFACE
 
+{$N+}
+
 Function IsBoolean(Const TestName:String;Got,Expected:Boolean):Boolean;
 Function IsInteger(Const TestName:String;Got,Expected:LongInt):Boolean;
 Function IsReal(Const TestName:String;Got,Expected:Extended):Boolean;
