@@ -9,7 +9,7 @@ Ce cadre d'application permet de faire des tests unitaires pour des programmes √
     <th>Description</th>
   </tr>
   <tr>
-    <td>UNITEST.PAS</tr>
+    <td>UNITEST.PAS</td>
     <td>Cette unit√© contient les outils pour faire des tests unitaires.</td>
   </tr>
 </table>
